@@ -21,6 +21,8 @@ This project is a **Traffic Sign Recognition System** built using **Convolutiona
 ## 📂 Dataset
 The dataset consists of 43 classes of traffic signs, stored in a folder structure where each subfolder represents a class label. 🏁
 
+📌 **Dataset Link:** [Download Here](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
+
 ## 🏗️ Model Architecture
 The model is a **CNN** with the following layers:
 - 🎛️ **Conv2D** layers with ReLU activation
